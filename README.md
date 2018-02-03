@@ -1,0 +1,2 @@
+# Mean-and-Median-Image-Filter
+This program is executed via command-line and takes 4 arguments (in order) the input image file name (ppm format), the output image file name (ppm format), the size of the window for filtering and the type of filtering (mean or median). The program will then take the image and apply the image filtering and create the new filtered image. This is done by denoising the image's pixels.
